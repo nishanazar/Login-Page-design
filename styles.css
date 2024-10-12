@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background: #244bc5;
+  font-size: 12px;
+}
+
+.image {
+  margin-bottom: 60px;
+  margin-left: 70px;
+}
+
+.input-name {
+  border: 1px solid white;
+  height: 45px;
+  width: 300px;
+  border-radius: 5px;
+
+  padding: 7px;
+  color: rgba(255, 235, 205, 0.817);
+  padding-left: 15px;
+  margin-bottom: 25px;
+}
+
+.input-passward {
+  border: 1px solid white;
+  height: 45px;
+  width: 300px;
+  border-radius: 5px;
+
+  padding: 7px;
+  color: rgba(255, 235, 205, 0.817);
+  padding-left: 15px;
+}
+.btn {
+  border: 1px solid white;
+  height: 45px;
+  width: 300px;
+  border-radius: 5px;
+  text-align: center;
+  background: white;
+  color: #2148c0;
+  margin-top: 45px;
+  padding-top: 12px;
+  text-shadow: black;
+  font-weight: bold;
+}
+p {
+  color: white;
+  margin-left: 180px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+.center-div {
+  margin-top: 100px;
+  margin-left: 480px;
+}
+.img {
+  margin-right: 20px;
+}
